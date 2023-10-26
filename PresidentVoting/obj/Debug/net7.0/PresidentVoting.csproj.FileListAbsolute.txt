@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/bin/Debug/net7.0/PresidentVoting
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/bin/Debug/net7.0/PresidentVoting.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/bin/Debug/net7.0/PresidentVoting.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/bin/Debug/net7.0/PresidentVoting.dll
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/bin/Debug/net7.0/PresidentVoting.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.dll
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/refint/PresidentVoting.dll
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/PresidentVoting.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallenges/PresidentVoting/obj/Debug/net7.0/ref/PresidentVoting.dll
