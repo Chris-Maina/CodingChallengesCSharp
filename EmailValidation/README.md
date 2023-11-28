@@ -8,4 +8,4 @@ Input should be a string and output is a console message for success or failure.
 - Email has to end with ".com"
 
 ##### Run the project
-`dotner run --project <path_to_project>/src/EmailValidation`
+`cd src && dotner run`

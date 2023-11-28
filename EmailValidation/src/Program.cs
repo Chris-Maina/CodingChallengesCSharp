@@ -11,7 +11,7 @@ namespace EmailValidation
       {
         // Ask user to enter their email
         Console.WriteLine("Enter the email address you'd like to validate:");
-        string emailInput = Console.ReadLine();
+        string? emailInput = Console.ReadLine();
         response = ValidateEmail(emailInput);
         Console.WriteLine(response);
       };
