@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/bin/Debug/net7.0/CarDealership
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/bin/Debug/net7.0/CarDealership.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/bin/Debug/net7.0/CarDealership.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/bin/Debug/net7.0/CarDealership.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/bin/Debug/net7.0/CarDealership.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/refint/CarDealership.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/CarDealership.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CarDealership/obj/Debug/net7.0/ref/CarDealership.dll

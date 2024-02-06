@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/bin/Debug/net7.0/SendingNewsletters
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/bin/Debug/net7.0/SendingNewsletters.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/bin/Debug/net7.0/SendingNewsletters.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/bin/Debug/net7.0/SendingNewsletters.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/bin/Debug/net7.0/SendingNewsletters.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/refint/SendingNewsletters.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/SendingNewsletters.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SendingNewsletters/obj/Debug/net7.0/ref/SendingNewsletters.dll

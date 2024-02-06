@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/bin/Debug/net7.0/Scores
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/bin/Debug/net7.0/Scores.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/bin/Debug/net7.0/Scores.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/bin/Debug/net7.0/Scores.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/bin/Debug/net7.0/Scores.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/refint/Scores.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/Scores.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/SeasonStats/src/Scores/obj/Debug/net7.0/ref/Scores.dll

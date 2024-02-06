@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/bin/Debug/net7.0/ShufflingCards
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/bin/Debug/net7.0/ShufflingCards.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/bin/Debug/net7.0/ShufflingCards.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/bin/Debug/net7.0/ShufflingCards.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/bin/Debug/net7.0/ShufflingCards.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/refint/ShufflingCards.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ShufflingCards.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShufflingCards/obj/Debug/net7.0/ref/ShufflingCards.dll

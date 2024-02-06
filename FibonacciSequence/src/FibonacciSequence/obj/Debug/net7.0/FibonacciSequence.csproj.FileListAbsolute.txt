@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/bin/Debug/net7.0/FibonacciSequence
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/bin/Debug/net7.0/FibonacciSequence.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/bin/Debug/net7.0/FibonacciSequence.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/bin/Debug/net7.0/FibonacciSequence.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/bin/Debug/net7.0/FibonacciSequence.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/refint/FibonacciSequence.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/FibonacciSequence.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/FibonacciSequence/src/FibonacciSequence/obj/Debug/net7.0/ref/FibonacciSequence.dll

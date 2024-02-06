@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/bin/Debug/net7.0/ShopInventory
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/bin/Debug/net7.0/ShopInventory.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/bin/Debug/net7.0/ShopInventory.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/bin/Debug/net7.0/ShopInventory.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/bin/Debug/net7.0/ShopInventory.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/refint/ShopInventory.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ShopInventory.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/ShopInventory/obj/Debug/net7.0/ref/ShopInventory.dll

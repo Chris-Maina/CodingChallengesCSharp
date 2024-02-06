@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/bin/Debug/net7.0/VowelCount
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/bin/Debug/net7.0/VowelCount.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/bin/Debug/net7.0/VowelCount.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/bin/Debug/net7.0/VowelCount.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/bin/Debug/net7.0/VowelCount.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/refint/VowelCount.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/VowelCount.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/CountingVowels/src/VowelCount/obj/Debug/net7.0/ref/VowelCount.dll

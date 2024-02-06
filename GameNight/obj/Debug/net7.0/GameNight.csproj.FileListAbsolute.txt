@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/bin/Debug/net7.0/GameNight
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/bin/Debug/net7.0/GameNight.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/bin/Debug/net7.0/GameNight.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/bin/Debug/net7.0/GameNight.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/bin/Debug/net7.0/GameNight.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/refint/GameNight.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/GameNight.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/GameNight/obj/Debug/net7.0/ref/GameNight.dll

@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/bin/Debug/net7.0/PartyRsvp
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/bin/Debug/net7.0/PartyRsvp.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/bin/Debug/net7.0/PartyRsvp.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/bin/Debug/net7.0/PartyRsvp.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/bin/Debug/net7.0/PartyRsvp.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/refint/PartyRsvp.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/PartyRsvp.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/PartyRsvp/src/PartyRsvp/obj/Debug/net7.0/ref/PartyRsvp.dll

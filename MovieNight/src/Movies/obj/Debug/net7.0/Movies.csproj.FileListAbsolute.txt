@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/bin/Debug/net7.0/Movies
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/bin/Debug/net7.0/Movies.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/bin/Debug/net7.0/Movies.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/bin/Debug/net7.0/Movies.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/bin/Debug/net7.0/Movies.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/refint/Movies.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/Movies.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/MovieNight/src/Movies/obj/Debug/net7.0/ref/Movies.dll

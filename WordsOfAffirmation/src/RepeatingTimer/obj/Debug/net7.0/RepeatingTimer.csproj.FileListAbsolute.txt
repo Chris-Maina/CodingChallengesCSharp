@@ -1,0 +1,14 @@
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/bin/Debug/net7.0/RepeatingTimer
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/bin/Debug/net7.0/RepeatingTimer.deps.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/bin/Debug/net7.0/RepeatingTimer.runtimeconfig.json
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/bin/Debug/net7.0/RepeatingTimer.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/bin/Debug/net7.0/RepeatingTimer.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.AssemblyInfoInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.AssemblyInfo.cs
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.csproj.CoreCompileInputs.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/refint/RepeatingTimer.dll
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.pdb
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/RepeatingTimer.genruntimeconfig.cache
+/Users/chrismaina/Projects/CSharp/CodingChallengesCSharp/WordsOfAffirmation/src/RepeatingTimer/obj/Debug/net7.0/ref/RepeatingTimer.dll
